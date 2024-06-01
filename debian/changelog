@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-anacrolix-log (0.13.1-2) unstable; urgency=medium
 
-  * Initial release
+  * source-only upload to allow migration to testing
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Drew Parsons <dparsons@debian.org>  Wed, 09 Nov 2022 15:30:04 +0100
+
+golang-github-anacrolix-log (0.13.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1023387)
+
+ -- Drew Parsons <dparsons@debian.org>  Thu, 03 Nov 2022 14:53:13 +0100
